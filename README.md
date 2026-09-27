@@ -1,16 +1,21 @@
-## Hi there 👋
+# Muhammad Zubair
 
-<!--
-**zubairmz/zubairmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Developer building AI features into production iOS and Android apps.
+27+ apps live on the App Store and Google Play.
 
-Here are some ideas to get you started:
+Most of my work is client code in private repositories. What is public here is
+independent work, mostly AI engineering in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- Flutter apps with AI inside: Gemini, Claude, OpenAI, Whisper, each provider behind a fallback
+- Subscriptions and usage verified on the server
+- Backends on Firebase, Supabase, Node.js and FastAPI
+
+**Independent AI work**
+- Agents with human approval gates (LangGraph)
+- Retrieval-Augmented Generation (RAG)
+- An architecture for running Gemma models on-device inside Flutter
+
+Portfolio: https://www.zubairmz.com/portfolio
+LinkedIn: https://www.linkedin.com/in/zubairmz/
+Email: contact@zubairmz.com
