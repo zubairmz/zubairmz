@@ -17,5 +17,7 @@ independent work, mostly AI engineering in Python.
 - An architecture for running Gemma models on-device inside Flutter
 
 Portfolio: https://www.zubairmz.com/portfolio
+
 LinkedIn: https://www.linkedin.com/in/zubairmz/
+
 Email: contact@zubairmz.com
